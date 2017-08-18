@@ -22,5 +22,5 @@ crontab -e
 
 check scheduler
 ```
-tail -f /delta-index.log
+tail -f ./delta-index.log
 ```
