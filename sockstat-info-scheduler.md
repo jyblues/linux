@@ -14,6 +14,8 @@ chmod +x delta-index-output.sh
 
 ./delta-index-output.sh
 
+vi ./delta-index.log
+
 crontab -e
 
 ```
