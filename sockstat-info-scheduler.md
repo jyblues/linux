@@ -19,3 +19,8 @@ crontab -e
 ```
 * * * * * /home/ec2-user/delta-index-output.sh
 ```
+
+check scheduler
+```
+tail -f /delta-index.log
+```
